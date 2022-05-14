@@ -4,4 +4,8 @@ Ce fichier jar propose une spécification fonctionnelle pour un type abstrait gr
 Ce Graph possède des noeuds et des arrets.
 
 - Execution
-java -jar graphKarim.jar
+java -jar karimGraph.jar
+
+- informations
+karim aidibi
+2021-2022 polytech montpellier
